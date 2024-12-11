@@ -1,0 +1,5 @@
+# IntellijIdea files
+.idea
+
+# Env
+tests/.env
