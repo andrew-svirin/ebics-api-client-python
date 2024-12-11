@@ -35,7 +35,7 @@ EBICS Client can be deployed as a standalone service on a webserver or within a 
 
 # Installation
 
-`python -m pip install ebics_api_client`
+`python3 -m pip install ebics-api-client`
 
 # Usage
 
