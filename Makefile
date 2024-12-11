@@ -20,4 +20,4 @@ stop:
 	$(FROM_DC) $(DOWN)
 
 bash:
-	$(FROM_DC) $(EXEC) $(IN_MODULE) $(PYTHONC) sh
+	$(FROM_DC) $(EXEC) $(IN_MODULE) $(PYTHONC) bash

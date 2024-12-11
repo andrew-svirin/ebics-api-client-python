@@ -11,7 +11,10 @@ setup(
     author="Andrew Svirin",
     author_email="andrey.svirin@ukr.net",
     url="https://github.com/andrew-svirin/ebics-api-client-python",
-    install_requires = requirements,
+    install_requires=[
+        'requests',
+        'python-dotenv'
+    ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

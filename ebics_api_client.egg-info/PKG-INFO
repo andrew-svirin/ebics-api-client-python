@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: ebics-api-client
+Version: 1.0.9
+Summary: EBICS API Client
+Home-page: https://github.com/andrew-svirin/ebics-api-client-python
+Author: Andrew Svirin
+Author-email: andrey.svirin@ukr.net
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # EBICS API Client (Python module)
 
 <img src="./doc/ebics-api-client-logo.png" height="100" align="left" style="padding-right:20px; padding-bottom: 20px;">
@@ -19,7 +35,7 @@ EBICS Client can be deployed as a standalone service on a webserver or within a 
 
 # Installation
 
-`python3 -m pip install ebics-api-client`
+`python -m pip install ebics_api_client`
 
 # Usage
 
@@ -110,3 +126,5 @@ Fetched files by run Scheduler Jobs
 |----------------------------------|----------------------------------------------------------------|
 | client.fetched_file_list()       | Fetched files of run scheduler order transactions to the Bank. |
 | client.fetched_file_download(id) | Download fetched file content.                                 |
+
+

@@ -3,3 +3,6 @@
 
 # Env
 tests/.env
+
+#PyPi
+.pypirc

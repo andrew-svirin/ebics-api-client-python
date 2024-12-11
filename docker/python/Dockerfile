@@ -1,3 +1,3 @@
-FROM python:3.6.1-alpine
+FROM python:3.6.15
 
 WORKDIR /var/www/ebics-api-client-python

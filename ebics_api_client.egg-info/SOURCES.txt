@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ebics_api_client/__init__.py
+ebics_api_client/ebics_api_client.py
+ebics_api_client.egg-info/PKG-INFO
+ebics_api_client.egg-info/SOURCES.txt
+ebics_api_client.egg-info/dependency_links.txt
+ebics_api_client.egg-info/requires.txt
+ebics_api_client.egg-info/top_level.txt
